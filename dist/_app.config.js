@@ -1,0 +1,1 @@
+window._VBEN_ADMIN_PRO_APP_CONF_={"VITE_GLOB_API_URL":"https://mock-napi.vben.pro/api","VITE_GLOB_API_URL_5000":"http://172.16.1.148:5000"};Object.freeze(window._VBEN_ADMIN_PRO_APP_CONF_);Object.defineProperty(window,"_VBEN_ADMIN_PRO_APP_CONF_",{configurable:false,writable:false,});
